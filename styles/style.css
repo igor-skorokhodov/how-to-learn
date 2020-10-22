@@ -42,7 +42,8 @@
 }
 
 .header__subtitle {
-  width: 450px;
+  width: 388px;
+  line-height: 25px;
   left: 64px;
   bottom: 30px;
   font-size: 18px;
@@ -385,7 +386,7 @@ margin-top: 0;
   text-decoration: none;
 }
 
-.footer__social_icon {
+.footer__social-icon {
 
   margin-right: 10px;
   bottom: 0;
