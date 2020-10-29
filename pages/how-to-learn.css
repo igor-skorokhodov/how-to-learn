@@ -73,5 +73,6 @@
 @import url(../blocks/two-columns/_position/two-columns_position_learning.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
-@import url(../blocks/video/__iframes/_margin/video__iframes_margin_right.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__iframe/_margin/video__iframe_margin_right.css);
 @import url(../blocks/video/__iframes/_position/video__iframes_position.css);
