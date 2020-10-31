@@ -1,7 +1,5 @@
 .two-columns {
   display: flex;
-  position: relative;
-  min-height: 200px;
   width: 80%;
   align-self: center;
   margin-left: auto;

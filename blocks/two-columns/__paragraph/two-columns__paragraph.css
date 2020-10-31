@@ -6,19 +6,15 @@
 }
 
 .two-columns__paragraph:first-child {
-  line-height: 34px;
   margin-top: 0;
   padding-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
-  font-size: 24px;
  }
 
 .two-columns__paragraph:last-child {
-  line-height: 34px;
   margin-top: 0;
   padding-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
-  font-size: 24px;
 }

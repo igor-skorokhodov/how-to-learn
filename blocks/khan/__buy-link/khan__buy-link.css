@@ -5,6 +5,7 @@
   margin: 0;
   margin-left: 48px;
   text-align: left;
+  align-self: flex-start;
 }
 
 .khan__buy-link:hover {

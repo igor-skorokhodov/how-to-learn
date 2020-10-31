@@ -1,7 +1,6 @@
 .footer__columns {
   display: flex;
   background-color: #1f1f1f;
-  position: relative;
   width: 90%;
   margin-left: auto;
   margin-right: auto;

@@ -7,4 +7,5 @@
   margin: auto;
   z-index: 1;
   font-weight: normal;
+  position: relative;
 }
