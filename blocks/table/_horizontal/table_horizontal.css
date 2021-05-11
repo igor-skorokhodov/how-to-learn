@@ -1,0 +1,9 @@
+.table__horizontal {
+  display: grid;
+  grid-template-columns: minmax(100px, 100px);
+  grid-template-rows:  minmax(100px, 100px) minmax(100px, 100px);
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  align-items: stretch;
+}

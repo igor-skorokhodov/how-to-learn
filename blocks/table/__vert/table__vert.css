@@ -1,0 +1,9 @@
+.table__vert {
+  display: grid;
+  grid-template-columns: minmax(50px, auto) minmax(50px, auto);
+  grid-template-rows: minmax(auto, auto);
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  align-items: stretch;
+}

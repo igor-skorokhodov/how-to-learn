@@ -1,9 +1,10 @@
 .table__text {
   margin-top: 0;
   line-height: 1.2;
-  font-size: 18px;
+  font-size: 12px;
   margin-bottom: 20px;
   font-weight: normal;
+  text-align: center;
 }
 .table__text:last-child {
   margin-bottom: 0;
